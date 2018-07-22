@@ -19,6 +19,11 @@ body {
   clear: both;
 }
 
+#carrie {
+  width: 274px;
+  height: 206px;
+}
+
 @media only screen and (max-width: 970px) {
   .container {
     width: 750px;
